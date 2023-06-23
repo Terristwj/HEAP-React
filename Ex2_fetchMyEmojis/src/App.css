@@ -1,0 +1,25 @@
+.AppWrapper {
+  margin: 150px 25% 0 25%;
+  border: 1px solid #e7e7e7;
+  border-radius: 1px;
+}
+
+.RowWrapper {
+  display: flex;
+  width: 100%;
+  border: 1px solid #e7e7e7;
+  justify-content: space-between;
+  padding: 10px 5px;
+}
+
+.EmojiInfo {
+  width: fit-content;
+}
+
+.CharNameWrapper {
+  display: flex;
+}
+
+.ExtraMarginRight {
+  margin-right: 10px;
+}
